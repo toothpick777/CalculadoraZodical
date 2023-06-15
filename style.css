@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.2%;
+}
+
+h1{
+    font-size: 3.6rem;
+    margin: 24px 0 12px 4px;
+}
+
+label {
+    font-size: 1.6rem;
+    vertical-align: top;
+    margin: 0 8px;
+}
+
+button {
+    margin-left: 4px;
+}
+
+p {
+    font-size: 1.6rem;
+    margin: 12px 0 12px 4px;
+}
+
+#imagenZodiacal {
+    height: 160px;
+    width: 260px;
+    background-size: cover;
+}
+
+#imagenZodiacal .defautl {
+    background-image: url(/assets/interrogacion.png);
+}
+
+.acuario {
+    background-image: url(/assets/acuario.png);
+}
+
+.piscis {
+    background-image: url(/assets/piscis.png);
+}
+
+.aries {
+    background-image: url(/assets/aries.png);
+}
+
+.tauro {
+    background-image: url(/assets/géminis.png);
+}
+
+.géminis {
+    background-image: url(/assets/géminis.png);
+}
+
+.cáncer {
+    background-image: url(/assets/cáncer.png);
+}
+
+.leo {
+    background-image: url(/assets/leo.png);
+}
+
+.virgo {
+    background-image: url(/assets/virgo.png);
+}
+
+.libra {
+    background-image: url(assets/libra.png);
+}
+
+.escorpio {
+    background-image: url(assets/escorpio.png);
+}
+
+.sagitario {
+    background-image: url(assets/sagitario.png);
+}
+
+.capiricornio {
+    background-image: url(/assets/capiricornio.png);
+}
